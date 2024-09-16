@@ -1,0 +1,245 @@
+Id,WHO Region,Entity,Year,Measles Reported Cases
+0,South-East Asia,Afghanistan,2022,5166.0
+2,Africa,Algeria,2022,47.0
+4,Africa,Angola,2022,3271.0
+6,Americas,Argentina,2022,2.0
+8,Western Pacific,Australia,2022,7.0
+9,Europe,Austria,2022,1.0
+165,South-East Asia,Afghanistan,2021,2900.0
+167,Africa,Angola,2021,300.0
+169,Americas,Argentina,2021,0.0
+171,Western Pacific,Australia,2021,0.0
+172,Europe,Austria,2021,1.0
+330,South-East Asia,Afghanistan,2020,640.0
+333,Africa,Angola,2020,1085.0
+335,Americas,Argentina,2020,69.0
+337,Western Pacific,Australia,2020,25.0
+338,Europe,Austria,2020,25.0
+493,South-East Asia,Afghanistan,2019,353.0
+495,Africa,Algeria,2019,2585.0
+497,Africa,Angola,2019,2987.0
+499,Americas,Argentina,2019,130.0
+501,Western Pacific,Australia,2019,286.0
+679,South-East Asia,Afghanistan,2018,2012.0
+681,Africa,Algeria,2018,3356.0
+683,Africa,Angola,2018,57.0
+685,Americas,Argentina,2018,14.0
+687,Western Pacific,Australia,2018,103.0
+688,Europe,Austria,2018,77.0
+867,South-East Asia,Afghanistan,2017,1511.0
+869,Africa,Algeria,2017,112.0
+871,Africa,Angola,2017,29.0
+873,Americas,Argentina,2017,3.0
+875,Western Pacific,Australia,2017,81.0
+876,Europe,Austria,2017,95.0
+1053,South-East Asia,Afghanistan,2016,638.0
+1055,Africa,Algeria,2016,41.0
+1057,Africa,Angola,2016,53.0
+1059,Americas,Argentina,2016,0.0
+1061,Western Pacific,Australia,2016,99.0
+1062,Europe,Austria,2016,27.0
+1232,South-East Asia,Afghanistan,2015,1154.0
+1233,Africa,Algeria,2015,63.0
+1235,Africa,Angola,2015,119.0
+1237,Americas,Argentina,2015,0.0
+1239,Western Pacific,Australia,2015,74.0
+1240,Europe,Austria,2015,309.0
+1409,South-East Asia,Afghanistan,2014,492.0
+1410,Africa,Algeria,2014,0.0
+1412,Africa,Angola,2014,11699.0
+1414,Americas,Argentina,2014,1.0
+1416,Western Pacific,Australia,2014,340.0
+1417,Europe,Austria,2014,117.0
+1579,South-East Asia,Afghanistan,2013,430.0
+1581,Africa,Algeria,2013,25.0
+1583,Africa,Angola,2013,8523.0
+1585,Americas,Argentina,2013,0.0
+1587,Western Pacific,Australia,2013,158.0
+1755,South-East Asia,Afghanistan,2012,2787.0
+1757,Africa,Algeria,2012,18.0
+1759,Africa,Angola,2012,4458.0
+1761,Americas,Argentina,2012,2.0
+1763,Western Pacific,Australia,2012,199.0
+1764,Europe,Austria,2012,36.0
+1944,South-East Asia,Afghanistan,2011,3013.0
+1946,Africa,Algeria,2011,112.0
+1948,Africa,Angola,2011,1449.0
+1950,Americas,Argentina,2011,3.0
+1952,Western Pacific,Australia,2011,190.0
+1953,Europe,Austria,2011,68.0
+2133,South-East Asia,Afghanistan,2010,1989.0
+2135,Africa,Algeria,2010,103.0
+2137,Africa,Angola,2010,1190.0
+2139,Americas,Argentina,2010,17.0
+2141,Western Pacific,Australia,2010,70.0
+2142,Europe,Austria,2010,52.0
+2323,South-East Asia,Afghanistan,2009,2861.0
+2325,Africa,Algeria,2009,107.0
+2327,Africa,Angola,2009,2807.0
+2329,Americas,Argentina,2009,3.0
+2331,Western Pacific,Australia,2009,104.0
+2332,Europe,Austria,2009,49.0
+2511,South-East Asia,Afghanistan,2008,1599.0
+2512,Africa,Algeria,2008,217.0
+2514,Africa,Angola,2008,265.0
+2516,Americas,Argentina,2008,0.0
+2518,Western Pacific,Australia,2008,65.0
+2519,Europe,Austria,2008,448.0
+2694,South-East Asia,Afghanistan,2007,1141.0
+2696,Africa,Algeria,2007,0.0
+2698,Africa,Angola,2007,1014.0
+2700,Americas,Argentina,2007,0.0
+2702,Western Pacific,Australia,2007,11.0
+2703,Europe,Austria,2007,20.0
+2880,South-East Asia,Afghanistan,2006,1990.0
+2882,Africa,Algeria,2006,944.0
+2884,Africa,Angola,2006,765.0
+2886,Americas,Argentina,2006,0.0
+2888,Europe,Austria,2006,23.0
+3063,South-East Asia,Afghanistan,2005,1296.0
+3065,Africa,Algeria,2005,2302.0
+3067,Africa,Angola,2005,258.0
+3069,Americas,Argentina,2005,0.0
+3071,Western Pacific,Australia,2005,10.0
+3072,Europe,Austria,2005,9.0
+3245,South-East Asia,Afghanistan,2004,466.0
+3247,Africa,Algeria,2004,3289.0
+3249,Africa,Angola,2004,29.0
+3251,Americas,Argentina,2004,0.0
+3253,Western Pacific,Australia,2004,70.0
+3254,Europe,Austria,2004,15.0
+3435,South-East Asia,Afghanistan,2003,798.0
+3437,Africa,Algeria,2003,15374.0
+3439,Africa,Angola,2003,1196.0
+3441,Americas,Argentina,2003,0.0
+3443,Western Pacific,Australia,2003,91.0
+3444,Europe,Austria,2003,90.0
+3617,South-East Asia,Afghanistan,2002,2486.0
+3619,Africa,Algeria,2002,5862.0
+3621,Africa,Angola,2002,11945.0
+3623,Americas,Argentina,2002,0.0
+3625,Western Pacific,Australia,2002,32.0
+3795,South-East Asia,Afghanistan,2001,8762.0
+3797,Africa,Algeria,2001,2686.0
+3799,Africa,Angola,2001,9046.0
+3801,Americas,Argentina,2001,0.0
+3803,Western Pacific,Australia,2001,141.0
+3804,Europe,Austria,2001,0.0
+3971,South-East Asia,Afghanistan,2000,6532.0
+3974,Africa,Angola,2000,2219.0
+3976,Americas,Argentina,2000,6.0
+3978,Western Pacific,Australia,2000,108.0
+4141,South-East Asia,Afghanistan,1999,3609.0
+4143,Africa,Algeria,1999,2503.0
+4145,Africa,Angola,1999,350.0
+4147,Americas,Argentina,1999,313.0
+4149,Western Pacific,Australia,1999,235.0
+4150,Europe,Austria,1999,1.0
+4309,South-East Asia,Afghanistan,1998,2205.0
+4311,Africa,Algeria,1998,3301.0
+4312,Africa,Angola,1998,2576.0
+4314,Americas,Argentina,1998,10229.0
+4316,Western Pacific,Australia,1998,327.0
+4317,Europe,Austria,1998,0.0
+4477,Africa,Algeria,1997,19573.0
+4479,Africa,Angola,1997,8183.0
+4481,Americas,Argentina,1997,125.0
+4483,Western Pacific,Australia,1997,853.0
+4484,Europe,Austria,1997,0.0
+4661,Africa,Algeria,1996,21003.0
+4662,Africa,Angola,1996,251.0
+4664,Americas,Argentina,1996,59.0
+4666,Western Pacific,Australia,1996,498.0
+4835,Africa,Algeria,1995,8204.0
+4836,Africa,Angola,1995,635.0
+4838,Americas,Argentina,1995,655.0
+4840,Western Pacific,Australia,1995,1198.0
+5011,Africa,Algeria,1994,5913.0
+5012,Africa,Angola,1994,5480.0
+5014,Americas,Argentina,1994,134.0
+5016,Western Pacific,Australia,1994,4895.0
+5186,Africa,Algeria,1993,3141.0
+5187,Africa,Angola,1993,9273.0
+5189,Americas,Argentina,1993,5087.0
+5191,Western Pacific,Australia,1993,4536.0
+5192,Europe,Austria,1993,60.0
+5368,Africa,Algeria,1992,8823.0
+5369,Africa,Angola,1992,16772.0
+5371,Americas,Argentina,1992,20551.0
+5373,Western Pacific,Australia,1992,1425.0
+5547,South-East Asia,Afghanistan,1991,792.0
+5549,Africa,Algeria,1991,5969.0
+5550,Africa,Angola,1991,18382.0
+5552,Americas,Argentina,1991,42093.0
+5554,Western Pacific,Australia,1991,1380.0
+5721,South-East Asia,Afghanistan,1990,1609.0
+5722,Africa,Algeria,1990,1796.0
+5723,Africa,Angola,1990,29069.0
+5725,Americas,Argentina,1990,1967.0
+5727,Western Pacific,Australia,1990,880.0
+5890,South-East Asia,Afghanistan,1989,1170.0
+5892,Africa,Algeria,1989,4169.0
+5893,Africa,Angola,1989,19820.0
+5895,Americas,Argentina,1989,4009.0
+5896,Western Pacific,Australia,1989,169.0
+6050,South-East Asia,Afghanistan,1988,4561.0
+6052,Africa,Algeria,1988,2634.0
+6053,Africa,Angola,1988,21009.0
+6055,Americas,Argentina,1988,4751.0
+6056,Western Pacific,Australia,1988,248.0
+6210,South-East Asia,Afghanistan,1987,10357.0
+6212,Africa,Algeria,1987,2500.0
+6213,Africa,Angola,1987,13368.0
+6215,Americas,Argentina,1987,8024.0
+6368,South-East Asia,Afghanistan,1986,8107.0
+6370,Africa,Algeria,1986,3975.0
+6371,Africa,Angola,1986,15580.0
+6373,Americas,Argentina,1986,6448.0
+6523,South-East Asia,Afghanistan,1985,14457.0
+6525,Africa,Algeria,1985,20114.0
+6526,Africa,Angola,1985,22822.0
+6528,Americas,Argentina,1985,9240.0
+6678,South-East Asia,Afghanistan,1984,16199.0
+6680,Africa,Algeria,1984,22553.0
+6681,Africa,Angola,1984,22685.0
+6683,Americas,Argentina,1984,31751.0
+6833,South-East Asia,Afghanistan,1983,18808.0
+6835,Africa,Algeria,1983,22126.0
+6836,Africa,Angola,1983,22589.0
+6838,Americas,Argentina,1983,7106.0
+6989,South-East Asia,Afghanistan,1982,20320.0
+6991,Africa,Algeria,1982,29584.0
+6992,Africa,Angola,1982,30067.0
+6994,Americas,Argentina,1982,4432.0
+7145,South-East Asia,Afghanistan,1981,31107.0
+7146,Africa,Algeria,1981,20849.0
+7147,Africa,Angola,1981,19714.0
+7149,Americas,Argentina,1981,17582.0
+7300,South-East Asia,Afghanistan,1980,32455.0
+7301,Africa,Algeria,1980,15527.0
+7302,Africa,Angola,1980,29656.0
+7304,Americas,Argentina,1980,16102.0
+7448,South-East Asia,Afghanistan,1979,43979.0
+7449,Africa,Algeria,1979,14937.0
+7450,Africa,Angola,1979,19682.0
+7452,Americas,Argentina,1979,9985.0
+7596,South-East Asia,Afghanistan,1978,43964.0
+7597,Africa,Algeria,1978,10696.0
+7598,Africa,Angola,1978,20408.0
+7600,Americas,Argentina,1978,9551.0
+7744,South-East Asia,Afghanistan,1977,28174.0
+7745,Africa,Algeria,1977,12015.0
+7746,Africa,Angola,1977,12940.0
+7748,Americas,Argentina,1977,36538.0
+7888,South-East Asia,Afghanistan,1976,26.0
+7889,Africa,Algeria,1976,15646.0
+7890,Africa,Angola,1976,5492.0
+7892,Americas,Argentina,1976,39291.0
+8034,South-East Asia,Afghanistan,1975,466.0
+8035,Africa,Algeria,1975,8899.0
+8036,Africa,Angola,1975,2153.0
+8038,Americas,Argentina,1975,23108.0
+8161,South-East Asia,Afghanistan,1974,7.0
+8162,Africa,Algeria,1974,10517.0
+8163,Africa,Angola,1974,5881.0
+8165,Americas,Argentina,1974,23803.0
