@@ -1,0 +1,80 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 550,
+    "data": {
+      "url": "https://raw.githubusercontent.com/ctin0018/FIT3179-W10/master/data/Final_Cleaned_Measles_Dataset.csv"
+    },
+    "params": [
+      {
+        "name": "Year_selection",
+        "value": 1974,
+        "bind": {
+          "input": "range",
+          "min": 1974,
+          "max": 2022,
+          "step": 1,
+          "name": "Year: "
+        }
+      },
+      {
+        "name": "Region_selection",
+        "bind": {
+          "input": "select",
+          "options": [null, "Africa", "Americas", "Europe", "South-East Asia", "Eastern Mediterranean", "Western Pacific"],
+          "labels": ["Show All", "Africa", "Americas", "Europe", "South-East Asia", "Eastern Mediterranean", "Western Pacific"],
+          "name": "WHO Region Selection: "
+        }
+      }
+    ],
+    "transform": [
+        {"filter": "datum.Year == Year_selection"}
+    ],
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "ordinal",
+        "title": "Year",
+        "axis": {"tickCount": 5}
+      },
+      "y": {
+        "field": "Measles Reported Cases",
+        "type": "quantitative",
+        "title": "Measles Reported Cases",
+        "scale": {"type": "log", "domain": [1, 100000]},
+        "axis": {"tickCount": 8}
+      }
+    },
+    "layer": [
+      {
+        "mark": "circle",
+        "encoding": {
+          "size": {
+            "field": "Measles Reported Cases",
+            "type": "quantitative",
+            "title": "Measles Cases",
+            "scale": {
+              "type": "linear",
+              "domain": [0, 10000],
+              "range": [1, 400]
+            }
+          },
+          "color": {
+            "field": "WHO Region",
+            "type": "nominal",
+            "title": "WHO Region",
+            "scale": {
+              "domain": ["Africa", "Americas", "Europe", "South-East Asia", "Eastern Mediterranean", "Western Pacific"],
+              "range": ["#e41a1c", "#984ea3", "#ff7f00", "#6cd4c5", "#377eb8", "#6d4b4b"]
+            }
+          },
+          "tooltip": [
+            {"field": "Entity", "type": "nominal", "title": "Country"},
+            {"field": "Measles Reported Cases", "type": "quantitative", "title": "Measles Cases", "format": ",.0f"},
+            {"field": "WHO Region", "type": "nominal", "title": "WHO Region"}
+          ]
+        }
+      }
+    ]
+  }
+  
