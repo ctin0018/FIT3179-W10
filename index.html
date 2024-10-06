@@ -24,14 +24,12 @@
 <body>
   
 <div id="choropleth_map"></div>
-<div id="vis2"></div>
 
 <script type="text/javascript">
-    var specVis1 = "https://raw.githubusercontent.com/ctin0018/FIT3179-W10/main/js/choropleth_map.vg.json";
-    var specVis2 = "https://raw.githubusercontent.com/ctin0018/FIT3179-W10/main/js/bubbleplot_CO2_emission.vg.json";
+    var specVis1 = "js/choropleth_map.vg.json";
+    var specVis2 = "js/bubbleplot_disease_spread.vg.json";
 
-  var spec2 = "js/choropleth_map.vg.json";
-  vegaEmbed('#choropleth_map', spec2).then(function(result) {
+  vegaEmbed('#choropleth_map', specVis1).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
